@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MAD-105 Currency Converter</string>
+    <string name="title">Currency Converter</string>
+    <string name="hint">Amount to Convert</string>
+    <string name="UStoEU">Convert US to Euro</string>
+    <string name="EUtoUS">Convert Euro to US</string>
+    <string name="txtButton">Convert</string>
+</resources>
